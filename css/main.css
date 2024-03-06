@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --main-bg: #f5f6fa;
+  --btn-bg-hover: #2c3e50;
+}
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: var(--main-bg);
+  margin: 0;
+}
+
